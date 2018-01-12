@@ -1,0 +1,11 @@
+{
+    "name": "wpdownload",
+    "version": "0.0.1",
+    "description": "Downloads the latest wordpress package",
+    "global": "false",
+    "scripts": [ "wpdownload.sh" ],
+    "install": "make install",
+    "dependencies": {
+        "uget": "0.0.1"
+    }
+}
